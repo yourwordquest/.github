@@ -1,4 +1,4 @@
-![logo192](https://user-images.githubusercontent.com/18737046/164221218-6e8213da-f7de-47fb-9b48-eb523980b291.png)
+[![logo192](https://user-images.githubusercontent.com/18737046/164221218-6e8213da-f7de-47fb-9b48-eb523980b291.png)](https://yourword.quest)
 
 # [YourWord.Quest](https://yourword.quest)
 
